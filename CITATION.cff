@@ -1,0 +1,68 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use or reference this repository, please cite it using the metadata below.
+
+title: "Task–Action CallingGraph Structural Delta Intelligence and Growth"
+
+type: software
+
+version: "1.0.0"
+
+date-released: "2026-09-09"
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+abstract: >-
+  TACG-SDIG develops a structural AI coding framework centered on Structural
+  Delta Intelligence. The framework represents Task and Action CallingGraphs,
+  localizes known structural neighborhoods, applies Graph Minus to isolate
+  meaningful Task-side and Action-side deltas, performs two-way Delta Search,
+  reconstructs candidate changes, validates reachability, feasibility, policy,
+  security, and counter-evidence, and folds validated outcomes back into
+  structural memory. The repository further develops Delta Memory, Task–Action
+  Delta Pairs, Delta CCC/DNA structures, structural evolution trajectories,
+  and Delta-Scoped Structural Governance for AI coding.
+
+keywords:
+  - "Structural Delta Intelligence"
+  - "Task CallingGraph"
+  - "Action CallingGraph"
+  - "CallingGraph"
+  - "Graph Minus"
+  - "Task–Action Delta Pair"
+  - "TADP"
+  - "Delta Search"
+  - "Delta Memory"
+  - "Delta CCC"
+  - "Delta DNA"
+  - "Structural Evolution Trajectory"
+  - "Trajectory Intelligence"
+  - "Structural Governance"
+  - "Delta-Scoped Governance"
+  - "AI Coding"
+  - "Structural Intelligence"
+  - "Structural Folding"
+  - "Structural Unfolding"
+  - "Continual Learning"
+
+repository-code: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+
+url: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+
+license: "Apache-2.0"
+
+preferred-citation:
+  type: software
+  title: "Task–Action CallingGraph Structural Delta Intelligence and Growth"
+  version: "1.0.0"
+  date-released: "2026-09-09"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  repository-code: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+  url: "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth"
+  doi: 10.5281/zenodo.22681998
+
