@@ -265,6 +265,10 @@ The important property is that the address points to a reproducible structural n
 
 ---
 
+![Fig-007-Context-Addressed-Intelligence-Runtime.png](../figures/Fig-007-Context-Addressed-Intelligence-Runtime.png)
+
+---
+
 # 5. Human-Readable and Machine-Stable Addresses
 
 A human may use:

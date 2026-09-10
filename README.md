@@ -141,6 +141,11 @@ Name
 
 ---
 
+![Fig-001-MDT-UTN-CBT-Grand-Map.png](figures/Fig-001-MDT-UTN-CBT-Grand-Map.png)
+
+---
+
+
 # 3. Context Is Primary
 
 A name is a symbolic interface.

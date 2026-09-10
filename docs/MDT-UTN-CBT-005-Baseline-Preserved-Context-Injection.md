@@ -1752,6 +1752,10 @@ Therefore:
 
 ---
 
+![Fig-006-Baseline-Preserved-Context-Injection.png](../figures/Fig-006-Baseline-Preserved-Context-Injection.png)
+
+---
+
 # 56. Context-Bound Tokens Should Be Marked as Augmentation
 
 A system should know which units were added.

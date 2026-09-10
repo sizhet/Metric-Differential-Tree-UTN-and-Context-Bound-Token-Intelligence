@@ -248,6 +248,10 @@ The important property is:
 
 ---
 
+![Fig-005-Token-Context-Dual-Track-Encoding.png](../figures/Fig-005-Token-Context-Dual-Track-Encoding.png)
+
+---
+
 # 4. CBT Is Not Merely an LLM Technique
 
 CBT should not be defined by one downstream application.

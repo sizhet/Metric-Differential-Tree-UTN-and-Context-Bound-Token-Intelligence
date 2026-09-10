@@ -194,6 +194,8 @@ This is a much smaller reasoning problem.
 
 # 4. Per-Node UTN Intelligence
 
+![Fig-003-Per-Node-UTN-Intelligence.png](../figures/Fig-003-Per-Node-UTN-Intelligence.png)
+
 A relevant MDT node can host **Per-Node UTN Intelligence**.
 
 Conceptually:

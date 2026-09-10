@@ -221,6 +221,8 @@ This creates an evolutionary path toward larger structural universality.
 
 # 4. Tree Merge Is Not Leaf Reprocessing
 
+![Fig-004-Composable-MDT-UTN-Tree-Merge.png](../figures/Fig-004-Composable-MDT-UTN-Tree-Merge.png)
+
 The most important efficiency idea is that two mature MDTs should not normally be merged by flattening all leaves and starting again.
 
 A naive merge might do:

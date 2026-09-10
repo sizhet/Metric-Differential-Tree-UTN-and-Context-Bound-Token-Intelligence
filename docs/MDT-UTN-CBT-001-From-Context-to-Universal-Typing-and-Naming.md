@@ -151,6 +151,10 @@ It applies broadly wherever one structure must be typed, localized, compared, or
 
 ---
 
+![Fig-002-Context-to-MDT-to-UTN.png](../figures/Fig-002-Context-to-MDT-to-UTN.png)
+
+---
+
 # 3. Structural Identity Is Not the Same as Name
 
 A Universal Typing and Naming system should distinguish at least four layers:
