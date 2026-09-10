@@ -1,48 +1,55 @@
 {
-"title": "Task–Action CallingGraph Structural Delta Intelligence and Growth",
-"description": "TACG-SDIG develops a structural AI coding framework centered on Structural Delta Intelligence (SDI): the capability to identify, localize, retrieve, compare, compose, validate, and learn meaningful structural changes between known, observed, and desired system states. The framework organizes knowledge into four interacting structural planes—Task, Action, Mapping, and Delta—and extends the canonical Task/Action CallingGraph model into a 1A–1N knowledge architecture. TACG-SDIG introduces Graph Minus for meaningful structural difference isolation; Task–Action Delta Pairs (TADPs) linking intended change with implementation change; Two-Way Delta Search across Task and Action structural memories; candidate reconstruction, companion-delta and counter-evidence analysis; residual-delta search and primitive-level constrained forward walking; Delta Memory, Delta CCC/DNA, and Structural Evolution Trajectories; and Delta-Scoped Structural Governance for reachability, policy, security, and Task–Action consistency analysis. The resulting closed loop is: Fold → Localize → Graph Minus → Delta → Two-Way Search → Unfold/Reconstruct → Validate → Grow → Fold Back. The central engineering thesis is that AI coding intelligence can improve not only by generating better candidates, but also by making fewer candidates necessary through structural localization and reusable engineering-change memory.",
+"title": "Metric-Differential-Tree UTN and Context-Bound Token Intelligence",
+"description": "Metric-Differential-Tree UTN and Context-Bound Token Intelligence (MDT-UTN-CBT) presents an algorithmic framework for converting context into explicit structural identity, Universal Typing and Naming (UTN), Context-Bound Tokens (CBT), and reusable context-addressed intelligence. The framework represents target context through GenericContainerStarmap, organizes structural similarity and difference through a Metric-Differential Tree (MDT), and applies Per-Node UTN Intelligence for typing-first and naming-second structural decisions. It further introduces Context-Bound Tokens using the canonical notation token@context, Baseline-Preserved Context Injection for controlled measurement of explicit context influence, and Context-as-Address as a reusable structural interface for search, caching, Delta Intelligence, CCC, Brain-Unit dispatch, validation, and structural growth. Version 1.0.0 is an Algorithmic Foundation Release focused on the structural model, algorithmic invariants, validation methodology, and future runtime architecture.",
 "upload_type": "software",
-"publication_date": "2026-09-09",
+"publication_date": "2026-09-10",
 "version": "1.0.0",
+"language": "eng",
+"license": "Apache-2.0",
 "creators": [
 {
 "name": "Tan, Sizhe"
 }
 ],
 "keywords": [
-"Structural Delta Intelligence",
-"Task–Action CallingGraph",
-"Task CallingGraph",
-"Action CallingGraph",
-"CallingGraph",
-"Graph Minus",
-"Task–Action Delta Pair",
-"TADP",
-"Two-Way Delta Search",
-"Delta Search",
-"Delta Memory",
-"Delta CCC",
-"Delta DNA",
-"Structural Evolution Trajectory",
-"Trajectory Intelligence",
-"Structural Governance",
-"Delta-Scoped Governance",
-"AI Coding",
 "Structural Intelligence",
+"Metric-Differential Tree",
+"MDT",
+"Universal Typing and Naming",
+"UTN",
+"Context-Bound Token",
+"CBT",
+"token@context",
+"Context Encoding",
+"Structural Encoding",
+"GenericContainerStarmap",
+"Per-Node Intelligence",
+"Structural Identity",
+"Context Address",
+"Baseline-Preserved Context Injection",
+"BPCI",
+"Context Gain",
+"Context Injection Density",
+"Two-Way Structural Search",
+"Counter-Evidence",
+"Explicit Leftover",
 "Structural Folding",
 "Structural Unfolding",
-"Structural Localization",
-"Continual Learning",
-"Human–AI Engineering"
+"Delta Intelligence",
+"CCC",
+"Brain Units",
+"Structural Memory",
+"Computational Folding",
+"Structural Continual Learning"
 ],
-"license": "Apache-2.0",
-"access_right": "open",
 "related_identifiers": [
 {
-"identifier": "https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth",
+"identifier": "https://github.com/sizhet/Metric-Differential-Tree-UTN-and-Context-Bound-Token-Intelligence",
 "relation": "isSupplementTo",
 "scheme": "url"
 }
 ],
-"notes": "Version 1.0.0 establishes the initial TACG-SDIG research framework, including eight core research articles and eight canonical figures. Core concepts include the Four Structural Planes, the 1A–1N knowledge model, Graph Minus, Structural Delta Intelligence, Task–Action Delta Pairs, Two-Way Delta Search, candidate reconstruction, residual and companion deltas, counter-evidence, primitive-level constrained forward walking, Delta Memory, Delta CCC/DNA, Structural Evolution Trajectories, Delta-Scoped Structural Governance, and closed-loop Fold Back. Canonical principles include: 'Delta is a first-class structural knowledge object'; 'Search before generation'; 'Structures describe states; deltas describe change; trajectories describe evolution'; and 'Code tells AI what the system is; Delta tells AI how the system grows.'"
+"notes": "MDT-UTN-CBT v1.0.0 is an Algorithmic Foundation Release. It defines the context-first MDT-UTN architecture, Context-Bound Token representation, baseline-preserved context validation, Context-as-Address runtime model, and associated validation protocols. The release intentionally emphasizes algorithms, invariants, and experimental methodology rather than a full executable runtime.",
+"access_right": "open"
 }
+`
