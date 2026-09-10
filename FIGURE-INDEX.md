@@ -1180,7 +1180,7 @@ validation/
 use:
 
 ```markdown
-![Fig-006 — Baseline-Preserved Context Injection](../figures/Fig-006-Baseline-Preserved-Context-Injection.png)
+![Fig-006 — Baseline-Preserved Context Injection](figures/Fig-006-Baseline-Preserved-Context-Injection.png)
 ```
 
 ---
@@ -1427,4 +1427,6 @@ The resulting visual thesis is:
 ---
 
 **MDT-UTN-CBT — Metric-Differential-Tree UTN and Context-Bound Token Intelligence**
+
+
 
