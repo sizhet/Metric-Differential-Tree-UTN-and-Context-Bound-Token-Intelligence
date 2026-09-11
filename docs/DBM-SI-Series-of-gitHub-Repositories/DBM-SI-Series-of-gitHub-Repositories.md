@@ -222,3 +222,6 @@
 64. Task–Action CallingGraph Structural Delta Intelligence and Growth (TACG-SDIG) - \
     Two-Way Localization, Delta Search, Trajectory Learning, and Structural Governance for AI Coding. \
     Repository: https://github.com/sizhet/Task-Action-CallingGraph-Structural-Delta-Intelligence-and-Growth
+
+65. Metric-Differential-Tree UTN and Context-Bound Token Intelligence (MDT-UTN-CBT) \
+    Repository: https://github.com/sizhet/Metric-Differential-Tree-UTN-and-Context-Bound-Token-Intelligence
