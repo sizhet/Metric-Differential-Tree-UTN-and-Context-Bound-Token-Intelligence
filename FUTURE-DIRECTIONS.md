@@ -162,10 +162,10 @@ The next step is to populate these protocols with canonical cases.
 
 # 5. Canonical Validation Case Pack
 
-A future `validation/cases/` directory could contain:
+A future `validations/cases/` directory could contain:
 
 ```text
-validation/
+validations/
 └── cases/
     ├── CASE-001-Commit-Git-vs-Database.md
     ├── CASE-002-Rollback-Transaction-vs-Deployment.md

@@ -561,10 +561,10 @@ context-addressed memory
 
 # 9. Validation Series
 
-The `validation/` directory contains three methodological documents.
+The `validations/` directory contains three methodological documents.
 
 ```text
-validation/
+validations/
 │
 ├── VALIDATION-001-Baseline-Preserved-Context-Injection.md
 ├── VALIDATION-002-Domain-Space-Time-Context-Matrix.md
@@ -585,7 +585,7 @@ How Much?
 
 # 10. Validation 001
 
-## `validation/VALIDATION-001-Baseline-Preserved-Context-Injection.md`
+## `validations/VALIDATION-001-Baseline-Preserved-Context-Injection.md`
 
 ### Main Question
 
@@ -641,7 +641,7 @@ Reject Context
 
 # 11. Validation 002
 
-## `validation/VALIDATION-002-Domain-Space-Time-Context-Matrix.md`
+## `validations/VALIDATION-002-Domain-Space-Time-Context-Matrix.md`
 
 ### Main Question
 
@@ -687,7 +687,7 @@ Context Projection
 
 # 12. Validation 003
 
-## `validation/VALIDATION-003-Context-Density-Policy-Protocol.md`
+## `validations/VALIDATION-003-Context-Density-Policy-Protocol.md`
 
 ### Main Question
 
@@ -1556,7 +1556,7 @@ Want Search / Cache / Delta / Brain Units?
 → 006
 
 Want validation?
-→ validation/
+→ validations/
 
 Want terminology?
 → GLOSSARY.md

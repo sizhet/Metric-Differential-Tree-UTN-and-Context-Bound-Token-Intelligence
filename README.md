@@ -1868,7 +1868,7 @@ Extends context from evidence into a shared structural address for computation, 
 # 55. Validation Documents
 
 ```text
-validation/
+validations/
 ├── VALIDATION-001-Baseline-Preserved-Context-Injection.md
 ├── VALIDATION-002-Domain-Space-Time-Context-Matrix.md
 └── VALIDATION-003-Context-Density-Policy-Protocol.md
@@ -1936,14 +1936,15 @@ Metric-Differential-Tree-UTN-and-Context-Bound-Token-Intelligence/
 ├── FIGURE-INDEX.md
 ├── FUTURE-DIRECTIONS.md
 │
-├── MDT-UTN-CBT-001-From-Context-to-Universal-Typing-and-Naming.md
-├── MDT-UTN-CBT-002-Metric-Differential-Tree-and-Per-Node-UTN-Intelligence.md
-├── MDT-UTN-CBT-003-Composable-UTN-Tree-Merge-and-Evolutionary-Identity.md
-├── MDT-UTN-CBT-004-Context-Bound-Tokens-for-Structural-Encoding.md
-├── MDT-UTN-CBT-005-Baseline-Preserved-Context-Injection.md
-├── MDT-UTN-CBT-006-Context-as-an-Address-for-Search-Cache-Delta-and-Brain-Units.md
+├── docs/
+│   ├── MDT-UTN-CBT-001-From-Context-to-Universal-Typing-and-Naming.md
+│   ├── MDT-UTN-CBT-002-Metric-Differential-Tree-and-Per-Node-UTN-Intelligence.md
+│   ├── MDT-UTN-CBT-003-Composable-UTN-Tree-Merge-and-Evolutionary-Identity.md
+│   ├── MDT-UTN-CBT-004-Context-Bound-Tokens-for-Structural-Encoding.md
+│   ├── MDT-UTN-CBT-005-Baseline-Preserved-Context-Injection.md
+│   └── MDT-UTN-CBT-006-Context-as-an-Address-for-Search-Cache-Delta-and-Brain-Units.md
 │
-├── validation/
+├── validations/
 │   ├── VALIDATION-001-Baseline-Preserved-Context-Injection.md
 │   ├── VALIDATION-002-Domain-Space-Time-Context-Matrix.md
 │   └── VALIDATION-003-Context-Density-Policy-Protocol.md

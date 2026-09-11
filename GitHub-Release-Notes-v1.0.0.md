@@ -881,7 +881,7 @@ Context Address
 # Validation Documents
 
 ```text
-validation/
+validations/
 ├── VALIDATION-001-Baseline-Preserved-Context-Injection.md
 ├── VALIDATION-002-Domain-Space-Time-Context-Matrix.md
 └── VALIDATION-003-Context-Density-Policy-Protocol.md

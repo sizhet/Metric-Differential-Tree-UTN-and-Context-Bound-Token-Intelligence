@@ -619,11 +619,11 @@ Policy-Controlled Evaluation
 
 ## Validation Placement
 
-### `validation/VALIDATION-001-Baseline-Preserved-Context-Injection.md`
+### `validations/VALIDATION-001-Baseline-Preserved-Context-Injection.md`
 
 Recommended placement near the beginning, after the experimental hypothesis and before the detailed test protocol.
 
-### `validation/VALIDATION-003-Context-Density-Policy-Protocol.md`
+### `validations/VALIDATION-003-Context-Density-Policy-Protocol.md`
 
 Optional reuse when explaining that every density condition must preserve the same baseline.
 
@@ -1174,7 +1174,7 @@ A target's context is preserved in a GenericContainerStarmap, localized through 
 For files inside subdirectories such as:
 
 ```text
-validation/
+validations/
 ```
 
 use:
