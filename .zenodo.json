@@ -52,4 +52,3 @@
 "notes": "MDT-UTN-CBT v1.0.0 is an Algorithmic Foundation Release. It defines the context-first MDT-UTN architecture, Context-Bound Token representation, baseline-preserved context validation, Context-as-Address runtime model, and associated validation protocols. The release intentionally emphasizes algorithms, invariants, and experimental methodology rather than a full executable runtime.",
 "access_right": "open"
 }
-`
